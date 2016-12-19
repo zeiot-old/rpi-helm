@@ -40,7 +40,8 @@ Or build :
 
 # Supported tags
 
-* [![](https://images.microbadger.com/badges/version/zeiot/rpi-helm.svg)](http://microbadger.com/images/zeiot/rpi-helm "Get your own version badge on microbadger.com")
+* [![](https://images.microbadger.com/badges/version/zeiot/rpi-helm:2.1.0.svg)](http://microbadger.com/images/zeiot/rpi-helm:2.1.0 "Get your own version badge on microbadger.com")
+* [![](https://images.microbadger.com/badges/version/zeiot/rpi-helm:2.0.0.svg)](http://microbadger.com/images/zeiot/rpi-helm:2.0.0 "Get your own version badge on microbadger.com")
 
 
 ## License
