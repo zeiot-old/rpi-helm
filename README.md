@@ -18,6 +18,26 @@ Or build :
     $ make build version=1.0
 
 
+## Usage
+
+
+    $ $ docker run zeiot/rpi-helm:2.0.0 --help
+    The Kubernetes Helm server.
+
+    Tiller is the server for Helm. It provides in-cluster resource management.
+
+    By default, Tiller listens for gRPC connections on port 44134.
+
+    Usage:
+        tiller [flags]
+
+    Flags:
+        -l, --listen string    address:port to listen on (default ":44134")
+            --storage string   storage driver to use. One of 'configmap' or 'memory' (default "configmap")
+            --trace            enable rpc tracing
+
+
+
 # Supported tags
 
 * [![](https://images.microbadger.com/badges/version/zeiot/rpi-helm.svg)](http://microbadger.com/images/zeiot/rpi-helm "Get your own version badge on microbadger.com")
