@@ -11,17 +11,17 @@ Configure binfmt-support on the Docker host (works locally or remotely, i.e: usi
 
 Then you can run an armhf image from your x86_64 Docker host :
 
-    $ make run version=1.0
+    $ make run version=x.x
 
 Or build :
 
-    $ make build version=1.0
+    $ make build version=x.x
 
 
 ## Usage
 
 
-    $ $ docker run zeiot/rpi-helm:2.0.0 --help
+    $ docker run zeiot/rpi-helm:2.1.0 --help
     The Kubernetes Helm server.
 
     Tiller is the server for Helm. It provides in-cluster resource management.
