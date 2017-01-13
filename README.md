@@ -1,7 +1,7 @@
 # RPI Helm
 
-* Master : [![Circle CI](https://circleci.com/gh/zeiot/rpi-helm/tree/master.svg?style=svg)](https://circleci.com/gh/zeiot/rpi-helm/tree/master)
-* Develop : [![Circle CI](https://circleci.com/gh/zeiot/rpi-helm/tree/develop.svg?style=svg)](https://circleci.com/gh/zeiot/rpi-helm/tree/develop)
+* Master : [![Circle CI](https://circleci.com/gh/zeiot/rpi-helm/tree/master.svg?style=svg)](https://circleci.com/gh/zeiot/rpi-helm/tree/master) [![Build Status](https://travis-ci.org/zeiot/rpi-helm.svg?branch=master)](https://travis-ci.org/zeiot/rpi-helm)
+* Develop : [![Circle CI](https://circleci.com/gh/zeiot/rpi-helm/tree/develop.svg?style=svg)](https://circleci.com/gh/zeiot/rpi-helm/tree/develop) [![Build Status](https://travis-ci.org/zeiot/rpi-helm.svg?branch=develop)](https://travis-ci.org/zeiot/rpi-helm)
 
 Docker image of [Helm][] to use on a [Raspberry PI][].
 

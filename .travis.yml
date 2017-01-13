@@ -6,5 +6,5 @@ script:
   - docker run --rm --privileged multiarch/qemu-user-static:register --reset
   - docker build -t zeiot/rpi-helm:2.0 2.0
   - docker build -t zeiot/rpi-helm:2.1 2.1
-  - docker run zeiot/rpi-helm:2.0 --version
-  - docker run zeiot/rpi-helm:2.1 --version
+  - docker run zeiot/rpi-helm:2.0 --help
+  - docker run zeiot/rpi-helm:2.1 --help
